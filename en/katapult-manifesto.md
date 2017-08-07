@@ -1,15 +1,15 @@
 # katapult:NOW 
 # a manifesto for a desirable future 
 
-Abraham Lincoln supposedly said that "the best way to predict your future is to create it". **We are by no means setting out to predicting a specific future, but we are all set onto describing one worth creating.**
+Abraham Lincoln supposedly said that "the best way to predict your future is to create it". **We are by no means setting out to predicting a specific future, but we are all set on describing one worth creating.**
 
-Many people have thought deeply about the details and implications of the future we are trying to describe here. We don't want to repeat all these arguments here, but instead build on them or condense them and where appropriate link to them. 
+Many people have thought deeply about the details and implications of the future we are trying to describe here. We don't want to repeat all these arguments here. Instead, we aim to distill and build on them, linking to the original ideas where appropriate.
 
 The purpose of this manifesto is to describe a common objective that is worth fighting and working for and that has the potential to set us as the human race on a common path towards a great future.
 
-We still have many challenges to solve and the most important ones are well described and packaged into a framework as the [Sustainable Development Goals](http://www.globalgoals.org/) [SDGs], [but we have already shown that we know how to solve the most pressing problems humanity faced over millennia: plague, war and famine. We have not solved these completely, but the numbers show that we can, if we want.](https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow)
+We still have many challenges to solve and the most important ones are well described and packaged into a framework as the [Sustainable Development Goals](http://www.globalgoals.org/) [SDGs], [but we have already shown that we know how to solve the most pressing problems humanity faced over millennia: plague, war and famine. We have not solved these completely, but the numbers show that we can, if we want to.](https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow)
 
-But before we set out to describe how we see the best possible future, we need to lay the foundations by describing our underlying beliefs. 
+But before we set out to describe our vision of the best possible future, we need to lay the foundations by describing our underlying beliefs. 
 
 ## Underlying Beliefs
 
@@ -35,7 +35,7 @@ We believe that human beings want to be connected to something that has a higher
 
 ### Social 
 
-We believe that human beings are dependend on interaction with other human beings.
+We believe that human beings crave interaction with other human beings.
 
 ### Economy 
 
@@ -46,18 +46,18 @@ We believe that the purpose of economic systems is to match supply and demand.
 
 We believe that we are systemically intertwined with technology and will are not able to end technology or roll back developments without considerable cost. 
 
-### Moores' Law
+### Moore's Law
 
 We believe in exponential growth of computational performance. We do not expect the current computational paradigms to fulfil this, but assume that new paradigms like quantum computing will not only increase the overall performance but also help to explore entirely new ways of thinking about computation. 
 
 ### Exponential growth
 
-We believe that technologies like CrispR, Blockchain, Robots, Bots, AI, VR, Augmented Reality, and so on all inherit from Moores' Law and therefor also follow exponential growth (and sometimes contribute towards it)
+We believe that technologies like CrispR, Blockchain, Robots, Bots, AI, VR, Augmented Reality, and so on all inherit from Moore's Law and therefor also follow exponential growth (and sometimes contribute towards it).
 
 
 ### Automation
 
-We believe that everything that can be automated will be automated. We see this happening in two domains: motor-skills in the form of robots and cognitive skills in the form of artificial intelligence.
+We believe that everything that can be automated will be automated. We see this happening in two domains: motor-skills, in the form of robots, and cognitive skills, in the form of artificial intelligence.
 
 
 ### Everything is connected
@@ -90,7 +90,7 @@ We believe that energy production will be fully decentralised and the cost of en
 ### Economic System
 > This domain describes how a society produces and then distributes its limited resources.
 
-Machines keep and index of all available resources on the planet. Where possible, like in agriculture, they also actively produce resources. The energy needed for the machines to function is fully renewable and sustainable and its sources are being cared for and extended as needed by machines. 
+Machines keep an index of all available resources on the planet. Where possible, like in agriculture, they also actively produce resources. The energy needed for the machines to function is fully renewable and sustainable and its sources are being cared for and extended as needed by machines. 
 
 The also know how to create consumable goods from resources either by means of robotic production, genetic engineering or some form or 3D printing. 
 
@@ -111,15 +111,15 @@ The results are fed back into systems that form contracts for the machines that 
 Disputes between people are handled in a similar fashion. Judges are no single people, but a wide range of people from all over the globe who receive all data associated with the dispute - except the identity of the people involved -  and are assisted by machines in their personal sense-making. They feed back their verdict into an algorithm that processes all incoming verdicts. This algorithm has been created in a similar fashion as the algorithms that steer our economy. 
 
 ### Cultural System
-> The stores of information, including the imagery and media of expression that binds a group, that are passed through generations. The cultural system of a society creates a sense of meaning; a vision that allows humans to understand the past, present, and future, and their role in time/place.    
+> The stores of information, including the imagery and media of expression that binds a group, are passed through generations. The cultural system of a society creates a sense of meaning: a vision that allows humans to understand the past, present, and future, and their role in time/place.    
 
 We spend our time mostly in participating in our global politcal system, socialising with other beings, learning new things and expressing ourselves.
 
-Since we are all interconnected with all other human beings and machines on the planet we not only have the possibility to interact with all of them, but also to create new forms of expression all with the aim of understanding ourselves better and giving other entities the chance to understand us better.
+Since we are all interconnected with all other human beings and machines on the planet, we not only have the possibility to interact with all of them, but also to create new forms of expression all with the aim of understanding ourselves better and giving other entities the chance to understand us better.
 
 The interactions and expression can both take place in the physical and the digital space. We can transition smoothly between the two and can distinguish between the two. Especially when it comes to fulfilling needs that can only be fulfilled in one of these spaces, we are very clear about these distinctions. 
 
-A core element of our culture is that everyone knows exactly what her current main objective in live is. Everyone is free to change their objective at any given moment in time, but it is well defined, articlulated and public.
+A core element of our culture is that everyone knows exactly what her current main objective in life is. Everyone is free to change their objective at any given moment in time, but it is well defined, articlulated and public.
 
 ### Social System
 > How we live, learn, raise our children 
@@ -134,5 +134,5 @@ We can decide on a very individual basis on how we want to live, given that we d
 
 ## THE CANARY IN PARADISE: ***An early warning system for dystopia***
 
-> There are a wide range of possible futures. Some of which are undesireable from our point of view. Instead of describing these, we describe the most important warning signals of things that potentially would lead into this kind of future.
+> There are a wide range of possible futures. Some of those futures are undesireable from our point of view. Instead of describing these, we describe the most important warning signals of things that potentially would lead into this kind of future.
 
